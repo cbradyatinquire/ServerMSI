@@ -1,0 +1,12 @@
+hawk,adder,01:01:00
+hawk,bear,01:02:12
+hawk,cat,01:03:59
+hawk,adder,01:05:02
+bear,adder,01:00:50
+bear,hawk,01:02:12
+bear,cat,01:01:57
+adder,bear,01:00:50
+adder,hawk,01:01:00
+adder,hawk,01:05:02
+cat,bear,01:01:57
+cat,hawk,01:03:59
